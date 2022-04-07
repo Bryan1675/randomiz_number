@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.btn{
+    margin-top: 0.5em;
+}
+
+td{
+    text-align: center;
+    padding: 0.5em;
+}
+
+#alert{
+    color: red;
+    margin-top : 0.5em
+}
+
+#piece{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
