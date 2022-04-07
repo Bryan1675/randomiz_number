@@ -48,12 +48,12 @@ function pileFace() {
     switch (resultPFValue) {
         case 0:
             var resultPF = "Pile"
-            document.getElementById('piece').innerHTML = '<img src="pile.png" alt="Piece pile" height="200" width="200" />';
+            document.getElementById('piece').innerHTML = '<img src="./images/pile.png" alt="Piece pile" height="200" width="200" />';
 
             break;
         case 1:
             var resultPF = "Face"
-            document.getElementById('piece').innerHTML = '<img src="face.png" alt="Piece pile" height="200" width="200" />';
+            document.getElementById('piece').innerHTML = '<img src="./images/face.png" alt="Piece pile" height="200" width="200" />';
 
             break;
 
