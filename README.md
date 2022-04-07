@@ -13,4 +13,4 @@ Utilisation de **Javascript**.
 
 
 *** 
-Fait par : [@Bryan1675](https://github.com/Bryan1675 "Github de Bryan 1675").
+Développé par : [@Bryan1675](https://github.com/Bryan1675 "Github de Bryan 1675").
