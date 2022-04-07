@@ -4,10 +4,10 @@ générateur d'aleatoire
 Utilisation de **Javascript**.
 
 ## Fonctionalités
-* **Générateur de nombre Aléatoire**
-`- choix du nombre maximum,`
-`- choix du nombre maximum,`
-`- choix du nombre de tirage.s`
+* **Générateur de nombre Aléatoire**  
+`- choix du nombre maximum,`  
+`- choix du nombre maximum,`  
+`- choix du nombre de tirage.s`  
 
 * **Pile ou face**
 
